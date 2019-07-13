@@ -2,8 +2,9 @@
 	 
 
 ### Symfony URL Shortener:
-This is Symfony based app that mimics URL shortening 
-Rest of description will go into a deliverable document
+This is Symfony based app that mimics URL shortening.
+
+Rest of description will go into a deliverable document.
 
 
  
