@@ -1,8 +1,8 @@
  ### Client work:
 	 
 
-### URL Shortener:
- 
+### Symfony URL Shortener:
+This is Symfony based app that mimics URL shortening 
 Rest of description will go into a deliverable document
 
 
